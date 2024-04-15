@@ -1,0 +1,10 @@
+pandas
+numpy
+flask
+scikit-learn
+seaborn
+pickles
+typing
+datetime
+
+-e .
